@@ -1,0 +1,38 @@
+body{
+    font-family: 'Corinthia', cursive;
+    background: hsl(253, 24%, 93%);
+    font-weight: bolder;
+    font: rgb(10, 27, 180);
+}
+.header_div
+  {
+  background: #95A3A4;
+  color: white; 
+  }
+
+  .header_div p{
+    font-family: 'Corinthia', sans-serif;
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  .main_div button{
+    font-family: 'Corinthia', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
+
+  .copy_right_footer {
+   position: fixed;
+   color: #cdd6dd;
+   bottom: 0;
+   width: 100%;
+   font-size: 18px;
+   background-color: #a54949;
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
